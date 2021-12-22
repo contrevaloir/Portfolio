@@ -167,7 +167,7 @@ Regression / ARIMA
         ANOVA
 
 
-https://github.com/contrevaloir/Portfolio/blob/main/images/LevisSupplyMap.png
+[](https://github.com/contrevaloir/Portfolio/blob/main/images/LevisSupplyMap.png)
 
 https://github.com/contrevaloir/Portfolio/blob/main/images/Screen%20Shot%202021-11-30%20at%205.46.55%20PM.png
 
