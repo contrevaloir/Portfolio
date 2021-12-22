@@ -169,8 +169,8 @@ Regression / ARIMA
 
 [](https://github.com/contrevaloir/Portfolio/blob/main/images/LevisSupplyMap.png)
 
-https://github.com/contrevaloir/Portfolio/blob/main/images/Screen%20Shot%202021-11-30%20at%205.46.55%20PM.png
+[](https://github.com/contrevaloir/Portfolio/blob/main/images/Screen%20Shot%202021-11-30%20at%205.46.55%20PM.png)
 
-https://github.com/contrevaloir/Portfolio/blob/main/images/Screen%20Shot%202021-12-18%20at%2011.11.07%20PM.png
+[](https://github.com/contrevaloir/Portfolio/blob/main/images/Screen%20Shot%202021-12-18%20at%2011.11.07%20PM.png)
 
-https://github.com/contrevaloir/Portfolio/blob/main/images/Screen%20Shot%202021-12-18%20at%2011.11.33%20PM.png
+[](https://github.com/contrevaloir/Portfolio/blob/main/images/Screen%20Shot%202021-12-18%20at%2011.11.33%20PM.png)
